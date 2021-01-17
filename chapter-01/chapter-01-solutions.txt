@@ -1,0 +1,23 @@
+Chapter Exercises
+
+Combinators:
+1.
+2.
+3.
+4.
+5.
+
+Normal form or diverge:
+1.
+2.
+3.
+
+Beta reduce
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
