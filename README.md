@@ -1,2 +1,2 @@
 # haskell-book-solutions
-Haskell Programming From First Principles Book Soluitions
+Haskell Programming From First Principles Book Solutions
